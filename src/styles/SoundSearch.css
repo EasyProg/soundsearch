@@ -1,0 +1,14 @@
+.searchContainer {
+    position: absolute;
+    width:100%;
+    height:40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image:url(../img/music-rainbow.jpg);
+    background-position: center;
+
+}
+.searchInput {
+    width:80%;
+}
